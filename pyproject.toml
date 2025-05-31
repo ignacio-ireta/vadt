@@ -1,0 +1,16 @@
+[project]
+name = "vadt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "librosa>=0.11.0",
+    "pytubefix>=9.1.1",
+    "requests>=2.32.3",
+    "soundfile>=0.13.1",
+    "speechbrain>=1.0.3",
+    "streamlit>=1.45.1",
+    "torchaudio[ffmpeg]>=2.7.0",
+    "yt-dlp>=2025.5.22",
+]
