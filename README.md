@@ -17,7 +17,7 @@ A powerful Streamlit web application that uses AI to detect English accents in a
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/ignacio-ireta/vadt.git
    cd vadt
    ```
 
